@@ -8,7 +8,7 @@
 --          - Triangle
 --          - Sawtooth
 --          - Square
---      User specify the signal waveform accuracy (depth & size of ROM) in bits, the expected frequency output and a frequence error range in Hz.
+--      User specifies the signal waveform accuracy (depth & size of ROM) in bits, the expected frequency output and a frequence error range in Hz.
 --
 -- Generics
 --      sys_clock: System Input Clock Frequency (Hz)
