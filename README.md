@@ -13,7 +13,7 @@ This module implements a simple ROM-based Signal Generator Module with PWM. Sele
 
 ## Usage
 
-User specify the signal waveform accuracy (depth & size of ROM) in bits, the expected frequency output and a frequence error range in Hz.
+User specifies the signal waveform accuracy (depth & size of ROM) in bits, the expected frequency output and a frequence error range in Hz.
 
 ## Signal Generator Pin Description
 
