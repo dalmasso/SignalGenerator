@@ -1,0 +1,6 @@
+[submodule "PWMController"]
+	path = PWMController
+	url = https://github.com/dalmasso/PWMController.git
+[submodule "WaveformGenerator"]
+	path = WaveformGenerator
+	url = https://github.com/dalmasso/WaveformGenerator.git
